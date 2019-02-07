@@ -1,0 +1,15 @@
+C:\Users\june\source\repos\WPF_예제\WPF_예제\bin\Debug\WPF_예제.exe.config
+C:\Users\june\source\repos\WPF_예제\WPF_예제\bin\Debug\WPF_예제.exe
+C:\Users\june\source\repos\WPF_예제\WPF_예제\bin\Debug\WPF_예제.pdb
+C:\Users\june\source\repos\WPF_예제\WPF_예제\obj\Debug\WPF_예제.csprojAssemblyReference.cache
+C:\Users\june\source\repos\WPF_예제\WPF_예제\obj\Debug\MainWindow.g.cs
+C:\Users\june\source\repos\WPF_예제\WPF_예제\obj\Debug\App.g.cs
+C:\Users\june\source\repos\WPF_예제\WPF_예제\obj\Debug\WPF_예제_MarkupCompile.cache
+C:\Users\june\source\repos\WPF_예제\WPF_예제\obj\Debug\WPF_예제_MarkupCompile.lref
+C:\Users\june\source\repos\WPF_예제\WPF_예제\obj\Debug\MainWindow.baml
+C:\Users\june\source\repos\WPF_예제\WPF_예제\obj\Debug\WPF_예제.g.resources
+C:\Users\june\source\repos\WPF_예제\WPF_예제\obj\Debug\WPF_예제.Properties.Resources.resources
+C:\Users\june\source\repos\WPF_예제\WPF_예제\obj\Debug\WPF_예제.csproj.GenerateResource.cache
+C:\Users\june\source\repos\WPF_예제\WPF_예제\obj\Debug\WPF_예제.csproj.CoreCompileInputs.cache
+C:\Users\june\source\repos\WPF_예제\WPF_예제\obj\Debug\WPF_예제.exe
+C:\Users\june\source\repos\WPF_예제\WPF_예제\obj\Debug\WPF_예제.pdb
